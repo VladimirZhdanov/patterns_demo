@@ -1,4 +1,4 @@
-package com.homel.fabric;
+package com.homel.factory;
 
 public class Circle extends Shape {
 }

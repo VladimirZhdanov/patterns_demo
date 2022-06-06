@@ -1,4 +1,4 @@
-package com.homel.fabric;
+package com.homel.factory;
 
 
 import org.reflections.Reflections;
